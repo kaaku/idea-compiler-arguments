@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Example" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="idea-compiler-arguments" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.ExampleApp" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
